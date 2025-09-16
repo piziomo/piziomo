@@ -5,6 +5,8 @@ My name is Peter, I have a masters in Big Data and Digital Futures from the Univ
 - 🔭 I’m actively looking for AI, Data Science and Innoveative Research roles.
 - 🌱 I’m recently completed a project in EV charging demand forecast and optimisation 
 - 👯 I’m looking to collaborate on Data Science and AI related projects
+  - Send me ideas to piziomo@gmail.com
+  
 
 <!--
 **piziomo/piziomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
