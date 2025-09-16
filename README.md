@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for roles in ...
+My name is Peter, I have a masters in Big Data and Digital Futures from the University of Warwick. I'm interested in all things Data Science & AI
+
+- 🔭 I’m actively looking for AI, Data Science and Innoveative Research roles.
+- 🌱 I’m recently completed a project in EV charging demand forecast and optimisation 
+- 👯 I’m looking to collaborate on Data Science and AI related projects
 
 <!--
 **piziomo/piziomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
