@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-My name is Peter, I have a masters in Big Data and Digital Futures from the University of Warwick. I'm interested in all things Data Science & AI
+I recently completed an MSc in Big Data and Digital Futures at the University of Warwick, building on my earlier career in audiovisual (AV) systems design and project delivery. My path into data science wasn’t a straight line, and I think that has shaped how I work: I approach problems as both a designer and a researcher, always balancing technical precision with the bigger picture of how people, organisations, and technology interact.
 
-- 🔭 I’m actively looking for AI, Data Science and Innoveative Research roles.
-- 🌱 I’m recently completed a project in EV charging demand forecast and optimisation 
-- 👯 I’m looking to collaborate on Data Science and AI related projects
-  - Send me ideas to piziomo@gmail.com
-  
+My technical strengths lie in Python, R, and machine learning frameworks such as Scikit-learn, TensorFlow and XGBoost. I’ve applied these to challenges like time-series forecasting for electric vehicle charging, generative AI for data visualisation, and image-based prediction in biomedical contexts. But what excites me most is when these models sit inside well-designed systems that are interpretable, usable, and scalable. My years as a lead system designer taught me the value of designing for people, managing teams, and delivering projects to strict timelines. Those lessons now shape how I think about building data science solutions that can move from prototype to real-world impact.
 
+Alongside the technical work, I’ve led small teams, managed interdisciplinary projects, and worked with stakeholders ranging from policymakers to private companies. Whether it was coordinating AV automation projects across West Africa or guiding participatory analytics frameworks in a UK green economy research, I’ve learned how to keep projects moving, make complex findings accessible, and build collaboration across different disciplines.
+
+I’m now looking for opportunities in data science, machine learning, or applied AI where I can bring together this mix of technical expertise, systems thinking, and project leadership. I’m particularly motivated by roles that use data not just to predict outcomes, but to guide smarter decisions and support change in areas like sustainability, innovation, and business strategy.
 <!--
 **piziomo/piziomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
